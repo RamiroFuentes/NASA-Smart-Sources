@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Carpetas innecesarias
+others
+
+#cache
+.DS_Store
