@@ -105,6 +105,7 @@ venv.bak/
 
 #Carpetas innecesarias
 others
+start.sh
 
 #cache
 .DS_Store
