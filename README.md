@@ -23,3 +23,11 @@ Ayudar a limpiar la basura del océano. Plan de recolección
 
 * **Aumento de nivel del mar:**\
 Ayudar a la comunicación de los impacto, creando una herramienta de sensación que muestre como afecta esto a nuestra localidad.
+
+## Herramientas importantes
+* [geojson](http://geojson.io/#map=2/20.0/0.0)
+* [Kepler](https://kepler.gl/)
+* [Flood Map](http://www.floodmap.net/)
+
+# Recursos
+* [México geojson](https://github.com/codeforamerica/click_that_hood/blob/master/public/data/mexico.geojson)
