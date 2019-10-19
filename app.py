@@ -9,7 +9,7 @@ def index():
 
 @app.route('/rising_water')
 def rising_water():
-    return render_template('Rising_water.html')
+    return render_template('Rising_Water.html')
 
 @app.route('/trash_cleanup')
 def trash_cleanup():
